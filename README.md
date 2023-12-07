@@ -28,4 +28,4 @@ The cover page showcases the official logo of the Khyber Pakhtunkhwa Information
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo](https://github.com/IAbdulSubhan/KPIT-Board).git
+   git clone (https://github.com/IAbdulSubhan/KPIT-Board).git
